@@ -4,6 +4,7 @@ Predicting breast cancer with ten different ML models
 # To replicate
 1. Download .ipynb file
 2. Upload to Jupyter Notebook or Google Collab
+3. Run!
 
 [ AISC Weekend Workshop ]
 
@@ -13,4 +14,4 @@ Models implemented- Logistic Regression, K-nearest Neighbors, Support Vector Mac
 
 Final ranking by F1-score: 
 
-Final ranking by AOC:
+Final ranking by AUC:
